@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="appico" horiz-adv-x="1000" >
+<font-face font-family="appico" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="ico-arrow-up" unicode="&#xe800;" d="M466 503c19 18 49 18 68 0l285-275c19-18 19-47 0-65-18-17-48-17-67 0l-252 243-252-243c-19-17-49-17-67 0-19 18-19 47 0 65l285 275z" horiz-adv-x="1000" />
+
+<glyph glyph-name="ic_arrow_right" unicode="&#xe801;" d="M405 630c-17 16-43 16-59 0-17-17-17-43 0-59l220-221-220-220c-17-17-17-43 0-59 16-17 42-17 59 0l250 250c16 16 16 42 0 59l-250 250z" horiz-adv-x="1000" />
+
+<glyph glyph-name="ic_close" unicode="&#xe803;" d="M212 675c-15 15-39 15-54 0-15-15-15-39 0-54l268-268-269-269c-15-15-15-39 0-54 15-14 39-14 53 0l269 269 269-269c15-14 39-14 53 0 15 15 15 39 0 54l-268 269 267 268c15 15 15 39 0 54-15 15-39 15-53 0l-268-268-267 268z" horiz-adv-x="1000" />
+
+<glyph glyph-name="ico-lock" unicode="&#xe806;" d="M238 350c-21 0-38-17-38-38v-265c0-21 17-38 38-38h525c20 0 37 17 37 38v265c0 21-17 38-37 38h-525z m-113-38c0 63 50 114 113 114h525c62 0 112-51 112-114v-265c0-63-50-114-112-114h-525c-63 0-113 51-113 114v265z m375 379c-40 0-78-16-106-44-28-29-44-67-44-108v-151c0-21-17-38-37-38-21 0-38 17-38 38v151c0 61 24 119 66 161 42 43 99 67 159 67 60 0 117-24 159-67 42-42 66-100 66-161v-151c0-21-17-38-37-38-21 0-38 17-38 38v151c0 41-16 79-44 108-28 28-66 44-106 44z" horiz-adv-x="1000" />
+
+<glyph glyph-name="ico-arrow-down" unicode="&#xe807;" d="M534 155c-19-18-49-18-68 0l-285 275c-19 18-19 47 0 65 18 18 48 18 67 0l252-243 252 243c19 18 49 18 67 0 19-18 19-47 0-65l-285-275z" horiz-adv-x="1000" />
+
+<glyph glyph-name="decoration" unicode="&#xe808;" d="M8000-150l-7000 0c-552 0-1000 448-1000 1000l7000 0c552 0 1000-448 1000-1000z" horiz-adv-x="8000" />
+
+<glyph glyph-name="ico-arrow-back" unicode="&#xe809;" d="M713 387h-153-170-16l141 150c13 13 15 41 0 55-15 14-42 9-55-4l-200-213c-7-7-10-15-10-25 0-9 4-20 10-26l200-213c14-12 40-17 55-3 15 13 15 40 0 55l-141 149h17 169 153c20 0 37 17 37 38 0 20-17 37-37 37z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
